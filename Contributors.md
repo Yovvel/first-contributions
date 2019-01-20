@@ -5,6 +5,7 @@
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
+- Yovvel  
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
 - Akriti Katiyar
